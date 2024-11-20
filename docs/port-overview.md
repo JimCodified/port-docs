@@ -17,7 +17,7 @@ sidebar_class_name: custom-sidebar-item sidebar-menu-port-overview
 ## Get started with Port
 
 Trying out Port for yourself is free and easy, simply [create an account](https://app.getport.io) and follow the quick onboarding process.  
-The [Getting started](/quickstart) page will walk you through the different components of your portal and the value they provide.
+The [getting started](/quickstart) page will walk you through the different components of your portal and the value they provide.
 
 ## What is Port
 
@@ -57,7 +57,7 @@ With Port, you can set up automations to automatically respond to events from yo
 
 #### R&D Insights & Reports
 
-R&D Insights & Reports is a pillar of port that provides data-driven insights and analytical reports on the development process. It allows teams, developers, and management to make informed decisions based on metrics, trends, and usage patterns to improve the development process, optimize performance, and reduce cost.
+R&D Insights & Reports is a pillar of Port that provides data-driven insights and analytical reports on the development process. It allows teams, developers, and management to make informed decisions based on metrics, trends, and usage patterns to improve the development process, optimize performance, and reduce cost.
 
 [Insights & Reports live demo](https://demo.getport.io/engineering_overview) 🎬
 
